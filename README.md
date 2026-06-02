@@ -1,6 +1,5 @@
 
-```markdown
-![Calculator](calculator.png)
+![Calculator Screenshot](calculator.png)
 
 # Advanced Calculator
 
